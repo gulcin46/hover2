@@ -1,0 +1,28 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: orange;
+}
+a:hover {
+  color: black;
+}
+
+#first .minibox {
+  border: 3px solid black;
+  background-color: #4c8ccd;
+  width: 170px;
+  height: 170px;
+}
+#first .minibox .minibox2 {
+  border: 2px solid #4b2a9f;
+  background-color: #202e3d;
+  width: 50px;
+  height: 50px;
+  transform: translate(57px, px);
+}
+#first .minibox .minibox2 h1 {
+  color: #ffffff;
+}/*# sourceMappingURL=style.css.map */
